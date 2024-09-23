@@ -87,6 +87,9 @@ export const Container = styled.aside<ContainerProps>`
 
           svg {
             fill: ${({ theme }) => theme.colors.yellow};
+            width: 5rem;
+            height: 5rem;
+
           }
 
           span {
